@@ -1,0 +1,1 @@
+Place your violence-detection.tflite model file in this directory.
